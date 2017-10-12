@@ -1,0 +1,17 @@
+﻿<Properties StartupConfiguration="{43F9E083-1844-42A6-BDBE-630C2450A289}|Default">
+  <MonoDevelop.Ide.ItemProperties.BankAccountApp PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="BankAccountApp/Controllers/HomeController.cs">
+    <Files>
+      <File FileName="BankAccountApp/Pages/BankAccountHomepage.cs" Line="30" Column="2" />
+      <File FileName="BankAccountApp/Tests/DepositMoneyInAccount.cs" Line="36" Column="1" />
+      <File FileName="BankAccountApp/Controllers/HomeController.cs" Line="1" Column="1" />
+      <File FileName="BankAccountApp/Controllers/WithdrawDepositController.cs" Line="1" Column="1" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MultiItemStartupConfigurations />
+</Properties>

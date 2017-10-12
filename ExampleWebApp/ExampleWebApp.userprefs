@@ -1,0 +1,19 @@
+﻿<Properties StartupConfiguration="{84671F4C-C860-48E0-8E19-9FF9062A016A}|Default">
+  <MonoDevelop.Ide.Workbench ActiveDocument="ExampleWebApp/Controllers/HomeController.cs">
+    <Files>
+      <File FileName="ExampleWebApp/Controllers/HomeController.cs" Line="25" Column="13" />
+      <File FileName="ExampleWebApp/Startup.cs" Line="5" Column="29" />
+      <File FileName="ExampleWebApp/Program.cs" Line="1" Column="1" />
+      <File FileName="ExampleWebApp/Interfaces/ISimpleDatabase.cs" Line="8" Column="30" />
+      <File FileName="ExampleWebApp/SimpleDatabase.cs" Line="6" Column="2" />
+      <File FileName="ExampleWebApp/Views/Home/Index.cshtml" Line="5" Column="5" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MultiItemStartupConfigurations />
+  <MonoDevelop.Ide.ItemProperties.ExampleWebApp PreferredExecutionTarget="MonoDevelop.Default" />
+</Properties>

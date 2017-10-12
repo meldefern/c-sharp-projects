@@ -1,0 +1,5 @@
+/Users/Tech-A35/Projects/RoomCalculator/RoomCalculator/bin/Debug/RoomCalculator.exe
+/Users/Tech-A35/Projects/RoomCalculator/RoomCalculator/bin/Debug/RoomCalculator.pdb
+/Users/Tech-A35/Projects/RoomCalculator/RoomCalculator/obj/x86/Debug/RoomCalculator.csproj.CoreCompileInputs.cache
+/Users/Tech-A35/Projects/RoomCalculator/RoomCalculator/obj/x86/Debug/RoomCalculator.exe
+/Users/Tech-A35/Projects/RoomCalculator/RoomCalculator/obj/x86/Debug/RoomCalculator.pdb

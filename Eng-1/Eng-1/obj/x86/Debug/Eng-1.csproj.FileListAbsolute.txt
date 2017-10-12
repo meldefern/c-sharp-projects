@@ -1,0 +1,5 @@
+/Users/Tech-A35/Projects/Eng-1/Eng-1/bin/Debug/Eng-1.exe
+/Users/Tech-A35/Projects/Eng-1/Eng-1/bin/Debug/Eng-1.pdb
+/Users/Tech-A35/Projects/Eng-1/Eng-1/obj/x86/Debug/Eng-1.csproj.CoreCompileInputs.cache
+/Users/Tech-A35/Projects/Eng-1/Eng-1/obj/x86/Debug/Eng-1.exe
+/Users/Tech-A35/Projects/Eng-1/Eng-1/obj/x86/Debug/Eng-1.pdb

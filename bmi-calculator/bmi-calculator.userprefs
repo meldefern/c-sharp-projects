@@ -1,0 +1,14 @@
+﻿<Properties StartupConfiguration="{2C93EB5C-C652-4D39-BFE8-8ED940872901}|Default">
+  <MonoDevelop.Ide.Workbench ActiveDocument="bmi-calculator/Program.cs">
+    <Files>
+      <File FileName="bmi-calculator/Program.cs" Line="68" Column="3" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug|x86" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.ItemProperties.bmi-calculator PreferredExecutionTarget="MonoDevelop.Default" />
+  <MultiItemStartupConfigurations />
+</Properties>

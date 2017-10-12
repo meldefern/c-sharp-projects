@@ -1,0 +1,10 @@
+﻿@{
+    ViewData["Title"] = "Home Page";
+}
+
+<ul>
+    @foreach(String line in (List<String>) ViewData["data"])
+	{
+        <li><b>@line</b></li>
+	}
+</ul>

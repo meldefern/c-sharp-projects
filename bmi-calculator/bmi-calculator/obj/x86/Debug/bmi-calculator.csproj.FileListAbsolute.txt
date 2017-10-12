@@ -1,0 +1,5 @@
+/Users/Tech-A35/Projects/bmi-calculator/bmi-calculator/bin/Debug/bmi-calculator.exe
+/Users/Tech-A35/Projects/bmi-calculator/bmi-calculator/bin/Debug/bmi-calculator.pdb
+/Users/Tech-A35/Projects/bmi-calculator/bmi-calculator/obj/x86/Debug/bmi-calculator.csproj.CoreCompileInputs.cache
+/Users/Tech-A35/Projects/bmi-calculator/bmi-calculator/obj/x86/Debug/bmi-calculator.exe
+/Users/Tech-A35/Projects/bmi-calculator/bmi-calculator/obj/x86/Debug/bmi-calculator.pdb

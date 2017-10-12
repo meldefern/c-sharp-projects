@@ -1,0 +1,12 @@
+/Users/Tech-A35/Projects/BankAccountApp/BankAccountApp/bin/Debug/netcoreapp2.0/libe_sqlite3.dylib
+/Users/Tech-A35/Projects/BankAccountApp/BankAccountApp/bin/Debug/netcoreapp2.0/BankAccountApp.deps.json
+/Users/Tech-A35/Projects/BankAccountApp/BankAccountApp/bin/Debug/netcoreapp2.0/BankAccountApp.runtimeconfig.json
+/Users/Tech-A35/Projects/BankAccountApp/BankAccountApp/bin/Debug/netcoreapp2.0/BankAccountApp.runtimeconfig.dev.json
+/Users/Tech-A35/Projects/BankAccountApp/BankAccountApp/bin/Debug/netcoreapp2.0/BankAccountApp.dll
+/Users/Tech-A35/Projects/BankAccountApp/BankAccountApp/bin/Debug/netcoreapp2.0/BankAccountApp.pdb
+/Users/Tech-A35/Projects/BankAccountApp/BankAccountApp/obj/Debug/netcoreapp2.0/BankAccountApp.csprojResolveAssemblyReference.cache
+/Users/Tech-A35/Projects/BankAccountApp/BankAccountApp/obj/Debug/netcoreapp2.0/BankAccountApp.csproj.CoreCompileInputs.cache
+/Users/Tech-A35/Projects/BankAccountApp/BankAccountApp/obj/Debug/netcoreapp2.0/BankAccountApp.AssemblyInfoInputs.cache
+/Users/Tech-A35/Projects/BankAccountApp/BankAccountApp/obj/Debug/netcoreapp2.0/BankAccountApp.AssemblyInfo.cs
+/Users/Tech-A35/Projects/BankAccountApp/BankAccountApp/obj/Debug/netcoreapp2.0/BankAccountApp.dll
+/Users/Tech-A35/Projects/BankAccountApp/BankAccountApp/obj/Debug/netcoreapp2.0/BankAccountApp.pdb

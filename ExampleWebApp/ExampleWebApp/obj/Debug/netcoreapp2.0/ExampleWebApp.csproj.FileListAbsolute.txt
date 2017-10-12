@@ -1,0 +1,12 @@
+/Users/Tech-A35/Projects/ExampleWebApp/ExampleWebApp/bin/Debug/netcoreapp2.0/libe_sqlite3.dylib
+/Users/Tech-A35/Projects/ExampleWebApp/ExampleWebApp/bin/Debug/netcoreapp2.0/ExampleWebApp.deps.json
+/Users/Tech-A35/Projects/ExampleWebApp/ExampleWebApp/bin/Debug/netcoreapp2.0/ExampleWebApp.runtimeconfig.json
+/Users/Tech-A35/Projects/ExampleWebApp/ExampleWebApp/bin/Debug/netcoreapp2.0/ExampleWebApp.runtimeconfig.dev.json
+/Users/Tech-A35/Projects/ExampleWebApp/ExampleWebApp/bin/Debug/netcoreapp2.0/ExampleWebApp.dll
+/Users/Tech-A35/Projects/ExampleWebApp/ExampleWebApp/bin/Debug/netcoreapp2.0/ExampleWebApp.pdb
+/Users/Tech-A35/Projects/ExampleWebApp/ExampleWebApp/obj/Debug/netcoreapp2.0/ExampleWebApp.csprojResolveAssemblyReference.cache
+/Users/Tech-A35/Projects/ExampleWebApp/ExampleWebApp/obj/Debug/netcoreapp2.0/ExampleWebApp.csproj.CoreCompileInputs.cache
+/Users/Tech-A35/Projects/ExampleWebApp/ExampleWebApp/obj/Debug/netcoreapp2.0/ExampleWebApp.AssemblyInfoInputs.cache
+/Users/Tech-A35/Projects/ExampleWebApp/ExampleWebApp/obj/Debug/netcoreapp2.0/ExampleWebApp.AssemblyInfo.cs
+/Users/Tech-A35/Projects/ExampleWebApp/ExampleWebApp/obj/Debug/netcoreapp2.0/ExampleWebApp.dll
+/Users/Tech-A35/Projects/ExampleWebApp/ExampleWebApp/obj/Debug/netcoreapp2.0/ExampleWebApp.pdb

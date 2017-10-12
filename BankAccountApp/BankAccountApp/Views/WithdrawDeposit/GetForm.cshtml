@@ -1,0 +1,28 @@
+﻿@{
+    ViewData["Title"] = "Withdraw/Deposit";
+}
+
+@{
+    var amount = "Amount";
+}
+
+
+<h2>@ViewData["Title"]</h2>
+<h3>@ViewData["Message"]</h3>
+
+<p>Enter your amount and the action you would like to make.</p>
+
+<form asp-controller="WithdrawDeposit" method="post" asp-action="confirmation">
+	<div>
+		<input asp-for="@amount" />
+	</div>
+	<div class="radio-btns">
+        <input id="withdraw-radio" name="transaction" type="radio" value="withdrawn"> Withdraw
+		<input id="deposit-radio" name="transaction" type="radio" value="deposited"> Deposit
+	</div>
+	<div class="button">
+        <button id="confirm-btn" name="confirm">Confirm</button>
+    </div>
+</form>
+
+

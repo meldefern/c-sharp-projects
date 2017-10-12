@@ -1,0 +1,16 @@
+﻿<Properties StartupConfiguration="{49E0817C-757A-4B05-ADB0-2B69857864C0}|Unit Tests">
+  <MonoDevelop.Ide.Workbench ActiveDocument="pom.example/BbcSignInError.cs">
+    <Files>
+      <File FileName="pom.example/BbcSignInError.cs" Line="32" Column="12" />
+      <File FileName="pom.example/pages/BbcHomepage.cs" Line="30" Column="2" />
+      <File FileName="pom.example/pages/BbcSignInPage.cs" Line="23" Column="51" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MultiItemStartupConfigurations />
+  <MonoDevelop.Ide.ItemProperties.pom.example PreferredExecutionTarget="MonoDevelop.Default" />
+</Properties>

@@ -1,0 +1,15 @@
+﻿<Properties StartupConfiguration="{B5331285-686C-494A-932E-1C04EC0C5028}|Unit Tests">
+  <MonoDevelop.Ide.Workbench ActiveDocument="calc.tests/Test.cs">
+    <Files>
+      <File FileName="calc.tests/Test.cs" Line="16" Column="65" />
+      <File FileName="calc.tests/Calc.cs" Line="18" Column="1" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MultiItemStartupConfigurations />
+  <MonoDevelop.Ide.ItemProperties.calc.tests PreferredExecutionTarget="MonoDevelop.Default" />
+</Properties>
